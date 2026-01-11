@@ -1,4 +1,4 @@
-## 🔭 Portfolio Preview
+##  Portfolio Preview
 
 ![Portfolio Preview](Preview.png)
 
